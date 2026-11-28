@@ -3,7 +3,7 @@
 نظام نقاط بيع وإدارة مخزون عربي للمحلات والسوبر ماركت.
 
 ## التحميل
-- **أحدث إصدار:** من صفحة [Releases](https://github.com/refaatahmed374-ui/nexa-pos-releases/releases/latest) ← ملف `NEXA-POS-Setup-<الإصدار>.exe`
+- **أحدث إصدار:** من صفحة [Releases](https://github.com/refaatahmed374-ui/nexa-pos-installer-and-updates/releases/latest) ← ملف `NEXA-POS-Setup-<الإصدار>.exe`
 - أو من صفحة البرنامج: [ajsmartshift.web.app](https://ajsmartshift.web.app)
 
 ## متطلبات التشغيل
